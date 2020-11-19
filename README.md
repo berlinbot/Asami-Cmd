@@ -36,7 +36,7 @@ s/botinfo
 s/serverinfo        
 s/userinfo        
         
-*msc:   
+*msc:*   
        
 s/spotify        
        
