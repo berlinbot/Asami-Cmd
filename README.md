@@ -14,7 +14,7 @@ s/registrar
 s/lock 
 s/unlock 
 s/say
-
+                                        
 Utilities: 
 s/help 
 s/botinfo 
@@ -27,5 +27,5 @@ s/userinfo
 s/avatar 
 s/ping 
 s/profile
-
+                                                                
 Obs:this bot will have many more commands, it is being developed by a mini programming team ..
