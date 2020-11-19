@@ -18,7 +18,7 @@ s/lock
 s/unlock        
 s/say       
        
-*ness*       
+*Ness:*       
        
 s/help        
 s/dev       
