@@ -1,4 +1,4 @@
-# Asami-Cmd
+**Asami™
 discord bot commands > asami
 
 A bot created in Brazil, translated into English. This bot was programmed in java script, the main reason for the bot is fun and moderation.
