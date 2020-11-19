@@ -21,15 +21,16 @@ s/say
 *Utilities:*
        
 s/help        
-s/botinfo        
-s/serverinfo        
-s/invite-bot        
 s/spotify        
 s/partners        
-s/dev        
-s/userinfo        
+s/dev       
 s/avatar        
 s/ping        
 s/profile       
        
+*infos:*
+s/botinfo        
+s/serverinfo        
+s/userinfo        
+        
 **Obs:this bot will have many more commands, it is being developed by a mini programming team ..**
