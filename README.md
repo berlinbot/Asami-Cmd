@@ -5,46 +5,29 @@ A bot created in Brazil, translated into English. This bot was programmed in jav
 
 Bot Prefix: "s/"
 
-Staff:
+*Staff:
 
 s/ban 
-
 s/kick 
-
 s/vaza 
-
 s/clear 
-
 s/registrar 
-
 s/lock 
-
 s/unlock 
-
 s/say
 
-Utilities: 
+*Utilities: 
 
 s/help 
-
 s/botinfo 
-
 s/serverinfo 
-
 s/invite-bot 
-
 s/spotify 
-
 s/partners 
-
 s/dev 
-
 s/userinfo 
-
 s/avatar 
-
 s/ping 
-
 s/profile
 
 Obs:this bot will have many more commands, it is being developed by a mini programming team ..
