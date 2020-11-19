@@ -18,13 +18,15 @@ s/lock
 s/unlock        
 s/say       
        
-*Utilities:*
+*ness*       
        
 s/help        
-s/profile       
-s/spotify        
-s/partners        
 s/dev       
+s/partners        
+       
+*Utilities:*       
+       
+s/profile       
 s/avatar        
 s/ping        
        
@@ -34,4 +36,8 @@ s/botinfo
 s/serverinfo        
 s/userinfo        
         
+*msc:   
+       
+s/spotify        
+       
 **Obs:this bot will have many more commands, it is being developed by a mini programming team ..**
