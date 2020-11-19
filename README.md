@@ -21,14 +21,15 @@ s/say
 *Utilities:*
        
 s/help        
+s/profile       
 s/spotify        
 s/partners        
 s/dev       
 s/avatar        
 s/ping        
-s/profile       
        
-*infos:*
+*infos:*       
+       
 s/botinfo        
 s/serverinfo        
 s/userinfo        
