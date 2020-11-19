@@ -1,11 +1,13 @@
+**WebSite off**
+
 *Asami™
 discord bot commands > asami*
 
-A bot created in Brazil, translated into English. This bot was programmed in java script, the main reason for the bot is fun and moderation.
+**A bot created in Brazil, translated into English. This bot was programmed in java script, the main reason for the bot is fun and moderation.**
 
 Bot Prefix: "s/"
 
-*Staff:
+*Staff:**
 
 s/ban 
 s/kick 
@@ -16,7 +18,7 @@ s/lock
 s/unlock 
 s/say
 
-*Utilities: 
+*Utilities:**
 
 s/help 
 s/botinfo 
@@ -30,4 +32,4 @@ s/avatar
 s/ping 
 s/profile
 
-Obs:this bot will have many more commands, it is being developed by a mini programming team ..
+**Obs:this bot will have many more commands, it is being developed by a mini programming team ..**
