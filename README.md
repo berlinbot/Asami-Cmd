@@ -27,6 +27,7 @@ s/casar
 s/divorcio        
 s/beijar        
 s/abraçar        
+s/tapa       
        
 *Utilities:*       
        
