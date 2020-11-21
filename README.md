@@ -18,13 +18,15 @@ s/lock
 s/unlock        
 s/say       
        
-*Ness:*       
+*tp:*       
        
 s/help        
 s/dev       
 s/partners        
 s/casar        
 s/divorcio        
+s/beijar        
+s/abraçar        
        
 *Utilities:*       
        
