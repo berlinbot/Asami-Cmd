@@ -13,7 +13,6 @@ s/ban
 s/kick        
 s/vaza        
 s/clear        
-s/registrar        
 s/lock        
 s/unlock        
 s/say       
