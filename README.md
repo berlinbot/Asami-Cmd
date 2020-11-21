@@ -23,6 +23,8 @@ s/say
 s/help        
 s/dev       
 s/partners        
+s/casar        
+s/divorcio        
        
 *Utilities:*       
        
