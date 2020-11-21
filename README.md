@@ -20,7 +20,8 @@ s/say
 *tp:*       
        
 s/help        
-s/dev       
+s/dev1       
+s/dev2       
 s/partners        
 s/casar        
 s/divorcio        
