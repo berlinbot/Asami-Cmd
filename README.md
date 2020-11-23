@@ -1,48 +1,41 @@
-**WebSite off**
-       
-*Asami™
-discord bot commands > asami*
-       
-**A bot created in Brazil, translated into English. This bot was programmed in java script, the main reason for the bot is fun and moderation.**
-       
-Bot Prefix: "s/"
-       
-*Staff:*
-       
-s/ban        
-s/kick        
-s/vaza        
-s/clear        
-s/lock        
-s/unlock        
-s/say       
-       
-*tp:*       
-       
-s/help        
-s/dev1       
-s/dev2       
-s/partners        
-s/casar        
-s/divorcio        
-s/beijar        
-s/abraçar        
-s/tapa       
-       
-*Utilities:*       
-       
-s/profile       
-s/avatar        
-s/ping        
-       
-*infos:*       
-       
-s/botinfo        
-s/serverinfo        
-s/userinfo        
-        
-*msc:*   
-       
-s/spotify        
-       
-**Obs:this bot will have many more commands, it is being developed by a mini programming team ..**
+> ```cs
+> Bot Prefix: "s!"
+> 
+> See Me:
+> s!help
+> s!partners
+> 
+> Staff:
+> s!ban
+> s!kick
+> s!vaza
+> s!clear
+> s!lock (erros)
+> s!unlock (erros)
+> s!say
+> 
+> Acão:
+> s!casar
+> s!divorcio
+> s!beijar
+> s!abraçar
+> s!tapa
+> s!desisto
+> 
+> Utilities:
+> s!profile
+> s!avatar
+> s!ping
+> 
+> infos:
+> s!botinfo
+> s!serverinfo
+> s!userinfo
+> s!dev1
+> s!dev2
+> 
+> Music:
+> s!spotify_br
+> s!spotify_en
+> ```
+
