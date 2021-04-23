@@ -3,7 +3,7 @@
 > 
 > See Me:
 > s!help
-> s!partners
+> s!partner
 > 
 > Staff:
 > s!ban {@}
